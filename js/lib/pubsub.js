@@ -1,6 +1,6 @@
 export default class PubSub {
     constructor() {
-      // hols named events   
+      // holds named events   
       this.events = {};
     }
     // Subscribe method
