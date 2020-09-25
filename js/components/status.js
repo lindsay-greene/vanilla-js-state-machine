@@ -10,7 +10,7 @@ export default class Status extends Component {
     }
     
     /**
-     * React to state changes and render the component's HTML
+     * React to state changes and render the component's HTML 
      *
      * @returns {void}
      */
