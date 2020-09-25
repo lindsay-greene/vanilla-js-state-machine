@@ -3,9 +3,8 @@ import mutations from './mutations.js';
 import state from './state.js';
 import Store from './store.js';
 
-// put all store components into store
 export default new Store({
-  actions,
-  mutations,
-  state
+    actions,
+    mutations,
+    state
 });
